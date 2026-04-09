@@ -1,0 +1,1 @@
+# Rice-Leaf-Disease-Detection-Basic-CNN-and-Transfer-Learning-Comparison
